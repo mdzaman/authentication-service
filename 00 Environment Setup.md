@@ -27,7 +27,10 @@
 ### For MacBook:
 1. Install Git:
    - Open Terminal
-   - Type: `brew install git`
+   - Type:
+   ```
+   brew install git
+   ```
 
 2. Install Python:
    - In Terminal, type: `brew install python`
