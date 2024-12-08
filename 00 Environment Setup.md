@@ -33,10 +33,13 @@
    ```
 
 2. Install Python:
-   - In Terminal, type: `brew install python`
+   - In Terminal, type:
+   ```
+   brew install python
+    ```
 
 3. Install Node.js:
-   - In Terminal, type: `brew install node`
+   - In Terminal, type:  ```brew install node  ```
 
 4. Install Visual Studio Code:
    - In Terminal, type: `brew install --cask visual-studio-code`
