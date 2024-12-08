@@ -85,7 +85,10 @@
 
 3. Configure AWS:
    - Open Terminal/Command Prompt
-   - Type: `aws configure`
+   - Type:
+   ```
+   aws configure
+   ```
    - Enter your AWS credentials when prompted
 
 ## Part 4: Project Setup
